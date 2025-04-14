@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pizsd
-- 👀 I’m interested in PHP,Golang,TypeCcript
-- 🌱 I’m currently learning Golang&TypeCcript
+- 👀 I’m interested in PHP,Golang,TypeScript
+- 🌱 I’m currently learning Golang&TypeScript
 
 <!---
 pizsd/pizsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
